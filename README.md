@@ -17,7 +17,7 @@ npm install --save-dev ember-browserify
 Now you'll be able to import a `social-utilities` function from anywhere in your javascript files:
 
 ```js
-import _fbShare from "npm:social-utilities/_fbShare";
+import _fbShare from "npm:other-utils/_fbShare";
 ...
 
 actions {
