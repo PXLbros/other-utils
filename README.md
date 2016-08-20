@@ -3,7 +3,7 @@
 Install using npm:
 
 ```bash
-npm install social-utilities --save-dev
+npm install other-utils --save-dev
 ```
 
 ## How To Use WIth Ember
