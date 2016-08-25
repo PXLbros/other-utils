@@ -1,4 +1,4 @@
-function whichTransitionEvent() {
+function ou_whichTransitionEvent() {
     var t;
     var el = document.createElement("fakeelement");
 
@@ -17,4 +17,4 @@ function whichTransitionEvent() {
 
 }
 
-module.exports = _whichTransitionEvent;
+module.exports = ou_whichTransitionEvent;

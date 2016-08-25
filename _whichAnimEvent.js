@@ -1,4 +1,4 @@
-function whichAnimationEvent() {
+function ou_whichAnimationEvent() {
     var t;
     var el = document.createElement("fakeelement");
 
@@ -17,4 +17,4 @@ function whichAnimationEvent() {
 
 }
 
-module.exports = _whichAnimationEvent;
+module.exports = ou_whichAnimationEvent;
